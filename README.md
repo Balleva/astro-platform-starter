@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+Bob Alleva
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
